@@ -9,5 +9,5 @@ Tran, T.X., Aygun, R.S. WisdomNet: trustable machine learning toward error-free 
 
 ## WisdomNet examples directory (more code files will be added ... I plan to have it done in this month)
 ### WisdomNet on convolutional neural networks models examples
- [mnist_0_1_cnn_wisdomNet.py]() Trains a WisdomNet on deep convolutional neural networks on the set of digits 0 and 1 in MNIST dataset.
+ [adding code please comeback later]() Trains a WisdomNet on deep convolutional neural networks on the set of digits 0 and 1 in MNIST dataset.
 
