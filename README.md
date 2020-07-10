@@ -7,3 +7,6 @@ Tran, T.X., Aygun, R.S. WisdomNet: trustable machine learning toward error-free 
 
 [read only] https://rdcu.be/b5wfN
 
+# WisdomNet examples directory
+## WisdomNet on convolutional neural networks models examples
+mnist_mlp.py Trains a simple deep multi-layer perceptron on the MNIST dataset.
