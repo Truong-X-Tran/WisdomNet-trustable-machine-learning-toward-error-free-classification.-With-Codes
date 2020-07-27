@@ -7,7 +7,7 @@ Tran, T.X., Aygun, R.S. WisdomNet: trustable machine learning toward error-free 
 
 [read only] https://rdcu.be/b5wfN
 
-## WisdomNet examples directory (more code files will be added ... I plan to have it done in this month)
+## WisdomNet examples directory (more code files will be added)
 ### WisdomNet on convolutional neural networks models examples
  [adding code please comeback later]() Trains a WisdomNet on deep convolutional neural networks on the set of digits 0 and 1 in MNIST dataset.
 
