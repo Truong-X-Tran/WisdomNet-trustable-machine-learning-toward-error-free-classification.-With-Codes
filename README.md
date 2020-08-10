@@ -10,6 +10,8 @@ Tran, T.X., Aygun, R.S. WisdomNet: trustable machine learning toward error-free 
 ## WisdomNet examples directory (more code files will be added)
 ### WisdomNet on convolutional neural networks models examples
  [mnist_0_1_cnn_wisdomnet.py](https://github.com/Truong-X-Tran/WisdomNet-trustable-machine-learning-toward-error-free-classification.-With-Codes/blob/master/mnist_0_1_cnn_wisdomnet.py) Trains a WisdomNet on deep convolutional neural networks on the set of digits 0 and 1 in MNIST dataset.
+ 
   [mnist_1_7_cnn_wisdomnet.py](https://github.com/Truong-X-Tran/WisdomNet-trustable-machine-learning-toward-error-free-classification.-With-Codes/blob/master/mnist_1_7_cnn_wisdomnet.py) Trains a WisdomNet on deep convolutional neural networks on the set of digits 1 and 7 in MNIST dataset.
+  
    [mnist_4_9_cnn_wisdomnet.py](https://github.com/Truong-X-Tran/WisdomNet-trustable-machine-learning-toward-error-free-classification.-With-Codes/blob/master/mnist_4_9_cnn_wisdomnet.py) Trains a WisdomNet on deep convolutional neural networks on the set of digits 4 and 9 in MNIST dataset.
 
